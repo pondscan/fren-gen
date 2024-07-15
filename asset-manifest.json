@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fren-gen/static/css/main.c73792cd.css",
+    "main.js": "/fren-gen/static/js/main.3e2b5290.js",
+    "static/js/453.d962e5a7.chunk.js": "/fren-gen/static/js/453.d962e5a7.chunk.js",
+    "index.html": "/fren-gen/index.html",
+    "main.c73792cd.css.map": "/fren-gen/static/css/main.c73792cd.css.map",
+    "main.3e2b5290.js.map": "/fren-gen/static/js/main.3e2b5290.js.map",
+    "453.d962e5a7.chunk.js.map": "/fren-gen/static/js/453.d962e5a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73792cd.css",
+    "static/js/main.3e2b5290.js"
+  ]
+}
